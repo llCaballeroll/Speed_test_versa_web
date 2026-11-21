@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://llcaballeroll.github.io/Speed_test_versa_web/sitemap.xml
